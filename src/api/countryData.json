@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38100000,
+    "interestingFact": "Canada has the longest coastline in the world, stretching over 202,080 kilometers."
+  },
+  {
+    "id": 2,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 6,800 islands, but the four largest make up 97% of its land area."
+  },
+  {
+    "id": 3,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26160000,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 217200000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen."
+  },
+  {
+    "id": 5,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1426000000,
+    "interestingFact": "India is the world's largest democracy and has the second-largest population globally."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67390000,
+    "interestingFact": "France is the most visited country in the world, with over 89 million tourists annually."
+  },
+  {
+    "id": 7,
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "population": 5197000,
+    "interestingFact": "New Zealand was the first country in the world to grant women the right to vote, in 1893."
+  },
+  {
+    "id": 8,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 84080000,
+    "interestingFact": "Germany has over 400 aquariums and zoos, which is more than any other country."
+  },
+  {
+    "id": 9,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 111800000,
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of Ancient World."
+  }
+]
